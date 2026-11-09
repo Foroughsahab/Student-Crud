@@ -2483,10 +2483,7 @@ input:focus-visible {
     min-height: 400px;
   }
 
-  .nova-headphones {
-    width: 85%;
-    max-width: 460px;
-  }
+
 
   .nova-hero-bottom {
     margin-top: 40px;
@@ -2511,9 +2508,7 @@ input:focus-visible {
     min-height: 320px;
   }
 
-  .nova-headphones {
-    width: 100%;
-  }
+ 
 
   .product-tag {
     bottom: 10px;
